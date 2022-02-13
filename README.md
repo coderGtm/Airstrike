@@ -1,5 +1,5 @@
 # Airstrike
-A game I made as my school project to demonstrate a Pysics phenomenon.
+A game I made as my school project to demonstrate a Physics phenomenon.
 
 # Objective
 Fly to POK as an Indian Airforce Pilot and destroy terrorist launchpad in the least number of payload ejections, without crossing the LOC.
